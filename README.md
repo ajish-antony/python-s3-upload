@@ -71,6 +71,8 @@ print("All the Process Have been Completed!!")
 
 ## User Instructions
 
+Update the Access key and Secret key in the file "var.py"
+
 ```sh
 sudo yum install git -y
 sudo yum install python3
