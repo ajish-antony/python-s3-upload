@@ -6,7 +6,7 @@
 
 ## Description
 
-Nowadays, it's quite common in taking the backups and storing in a separate space as a DR plan. Here I have built a python script that will take these kinds of backups(the script will compress the directory or a file) and upload the same to S3 Bucket. Only the requirements needs from the client-side are just specifying the folder and the name of the bucket to which its needs to be updated
+Nowadays, it's quite common in taking the backups and storing in a separate space as a DR plan. Here I have built a python script that will take these kinds of backups(the script will compress the directory or a file) and upload the same to S3 Bucket. Only the requirements needs from the client-side are just specifying the folder and the name of the bucket to which its needs to be updated.
 
 
 
